@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "acheteur_id": 1252377453343543317,
+    "acheteur_name": "hv.dev",
+    "token": "",
+    "ajoute_le": "2025-06-18 17:34:33",
+    "expire_le": "2025-07-18 17:34:33",
+    "active": true,
+    "folder": "clients_bots/bot_1"
+  }
+]
+
+
+#supprimer ca, c'est juste pour vous donnez une idée de la db
